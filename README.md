@@ -1,6 +1,7 @@
 # P8-20251008-YS
 
 Table of Contents
+
 Gaussian_xyz/: Contains XYZ files after geometry optimization.
   
 ML/
